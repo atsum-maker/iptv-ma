@@ -1,28 +1,21 @@
 #EXTM3U
 
-# --- SNRT / TV MAROC OFFICIAL CHANNELS ---
+# ============================
+#   CANALES DEPORTIVOS MARROCOS
+# ============================
 
-#EXTINF:-1 tvg-id="AlAoula" tvg-logo="" group-title="Marruecos",Al Aoula (SNRT 1)
-https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/index.m3u8
-
-#EXTINF:-1 tvg-id="Arryadia" tvg-logo="" group-title="Marruecos",Arryadia (SNRT Sports)
+#EXTINF:-1 tvg-id="Arryadia" tvg-logo="" group-title="Deportes Marruecos",Arryadia (SNRT Sports)
 https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="Athaqafia" tvg-logo="" group-title="Marruecos",Athaqafia (SNRT Cultural)
-https://cdn-globecast.akamaized.net/live/eds/athaqafia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="ArryadiaLive" tvg-logo="" group-title="Deportes Marruecos",Arryadia Live (Backup)
+https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlMaghribia" tvg-logo="" group-title="Marruecos",Al Maghribia
-https://cdn-globecast.akamaized.net/live/eds/almaghribia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="ArryadiaTNT" tvg-logo="" group-title="Deportes Marruecos",Arryadia TNT (Alternativa)
+https://cdn-globecast.akamaized.net/live/eds/arriadia_tnt/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="LaayouneTV" tvg-logo="" group-title="Marruecos",Laayoune TV
-https://cdn-globecast.akamaized.net/live/eds/laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="AlAoulaSports" tvg-logo="" group-title="Deportes Marruecos",Al Aoula – Eventos Deportivos
+https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/index.m3u8
 
-# --- OTROS CANALES OFICIALES ---
 
-#EXTINF:-1 tvg-id="Medi1TV" tvg-logo="" group-title="Marruecos",Medi 1 TV
-https://streaming.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="2MMonde" tvg-logo="" group-title="Marruecos",2M Monde
-https://d3g87jnubafe6a.cloudfront.net/out/v1/1fa0fb3c8dec402994a6f7a7f6492b82/index_3.m3u8
 
 
