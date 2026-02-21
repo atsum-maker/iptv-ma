@@ -1,20 +1,18 @@
 #EXTM3U
 
-# ============================
-#   CANALES DEPORTIVOS MARROCOS
-# ============================
+#EXTINF:-1 group-title="Marruecos Deportes",Arryadia (Servidor 1 - SNRT)
+https://cdnaws.globecast.tv/live/arriadia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arryadia" tvg-logo="" group-title="Deportes Marruecos",Arryadia (SNRT Sports)
-https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Marruecos Deportes",Arryadia (Servidor 2 - Backup)
+https://cdnamd-hls-globecast.akamaized.net/live/arriadia/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="ArryadiaLive" tvg-logo="" group-title="Deportes Marruecos",Arryadia Live (Backup)
-https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/playlist.m3u8
+#EXTINF:-1 group-title="Marruecos Deportes",Arryadia HD (Servidor 3)
+https://streaming.snrt.ma/live/arriadia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArryadiaTNT" tvg-logo="" group-title="Deportes Marruecos",Arryadia TNT (Alternativa)
-https://cdn-globecast.akamaized.net/live/eds/arriadia_tnt/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Marruecos Deportes",Al Aoula – Eventos Deportivos
+https://cdnamd-hls-globecast.akamaized.net/live/al_aoula_inter/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="AlAoulaSports" tvg-logo="" group-title="Deportes Marruecos",Al Aoula – Eventos Deportivos
-https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/index.m3u8
+
 
 
 
